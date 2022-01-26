@@ -1,4 +1,4 @@
-# Hi there, I'm aresko! 👋 (Speak Hebrew)
+# Hi there, I'm aresko! 👋 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofek1970&show_icons=true&theme=radical)
 
